@@ -1,0 +1,31 @@
+body
+{
+    background: rgb(135,86,207);
+background: linear-gradient(295deg, rgba(135,86,207,1) 0%, rgba(237,176,215,1) 66%, rgba(173,76,221,1) 100%);
+}
+
+.heading
+{
+    background: rgb(137,20,237);
+ background: linear-gradient(295deg, rgba(137,20,237,1) 0%, rgba(173,76,221,1) 66%, rgba(239,70,178,1) 66%);
+  padding: 40px;
+  width: 100%;
+ text-align: center;
+ font-size: 48px;
+ border:  2px solid;
+ font-family: 'Lobster', cursive;
+}
+
+#object_input
+{
+    padding-top: 15px;
+    padding-right: 45px;
+    padding-left: 45px;
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+button
+{
+    padding:20px;
+}
